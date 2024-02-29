@@ -33,6 +33,26 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\image\\logoo.png",
+      "PackagePath": "staticwebassets\\image\\logoo.png"
+    },
+    {
+      "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\image\\logooo.png",
+      "PackagePath": "staticwebassets\\image\\logooo.png"
+    },
+    {
+      "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\image\\logoooo.png",
+      "PackagePath": "staticwebassets\\image\\logoooo.png"
+    },
+    {
+      "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\image\\logooooo.png",
+      "PackagePath": "staticwebassets\\image\\logooooo.png"
+    },
+    {
       "Id": "C:\\Users\\Raya\\source\\repos\\Project1\\Project1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

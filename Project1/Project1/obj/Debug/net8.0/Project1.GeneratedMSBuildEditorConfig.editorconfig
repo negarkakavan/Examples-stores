@@ -26,8 +26,16 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Raya/source/repos/Project1/Project1/Layout/Body.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEJvZHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Raya/source/repos/Project1/Project1/Layout/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEZvb3Rlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Raya/source/repos/Project1/Project1/Layout/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Raya/source/repos/Project1/Project1/Pages/Counter.razor]
